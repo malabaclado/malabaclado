@@ -6,6 +6,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Quick links
+- Linkedin: https://www.linkedin.com/in/mark-jayson-labaclado-14603b204/
+- Portfolio site: https://malabaclado.notion.site
+- Credly: https://www.credly.com/users/mark-jayson-labaclado
+
+
+
 <!---
 malabaclado/malabaclado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
