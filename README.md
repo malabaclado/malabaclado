@@ -2,7 +2,6 @@
 malabaclado/malabaclado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <h2 align="center">Hi 👋! My name is Mark</h2>
 
 ###
@@ -11,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left"><h3 align="center">I'm an aspiring data scientist</h3><br><br>- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/malabaclado](https://www.datascienceportfol.io/malabaclado)<br><br>- 📫 How to reach me **malabaclado@gmail.com**<br><br>- 📄 Know about my experiences [https://www.credly.com/users/mark-jayson-labaclado](https://www.credly.com/users/mark-jayson-labaclado)<br><br><h3 align="left">Connect with me:</h3><br><p align="left"><br><a href="https://www.hackerrank.com/malabaclado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="malabaclado" height="30" width="40" /></a><br></p></p>
+<p align="left">- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/malabaclado](https://www.datascienceportfol.io/malabaclado)<br><br>- 📫 How to reach me **malabaclado@gmail.com**<br><br>- 📄 Know about my experiences [https://www.credly.com/users/mark-jayson-labaclado](https://www.credly.com/users/mark-jayson-labaclado)</p>
 
 ###
 
@@ -59,11 +58,5 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=malabaclado&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/malabaclado/malabaclado/output/snake.svg" alt="Snake animation" />
 
 ###
