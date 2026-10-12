@@ -1,4 +1,4 @@
-# Hi, I'm Mark Labaclado 👋
+# Hi, I'm Mark 👋
 
 **Lead Digital API Specialist & Quantitative Data Professional**  
 *Bridging mathematical theory with scalable data infrastructure, financial APIs, and enterprise automation.*
