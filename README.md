@@ -19,7 +19,7 @@
 - 🔭 **Current Focus**: Quantitative risk modeling (GARCH, VaR), data pipelines in Snowflake, and FastAPI microservices.
 
 ---
-
+<!-- 
 ### 🛠️ Featured Projects & Case Studies
 
 #### 📈 [Predicting Stock Volatility API](https://github.com/malabaclado/predicting-stock-volatility-using-Python)
@@ -38,7 +38,7 @@
 - **Tech Stack:** Python, NumPy, SciPy, Matplotlib
 - **Highlights:** Implements variance-covariance matrices, historical percentiles, and Monte Carlo paths for portfolio downside risk calculation.
 
----
+--- -->
 
 ### 💻 Core Tech Stack
 
