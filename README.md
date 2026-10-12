@@ -1,62 +1,66 @@
-<!---
-malabaclado/malabaclado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h2 align="center">Hi 👋! My name is Mark</h2>
+# Hi, I'm Mark Labaclado 👋
 
-###
+**Lead Digital API Specialist & Quantitative Data Professional**  
+*Bridging mathematical theory with scalable data infrastructure, financial APIs, and enterprise automation.*
 
-<img align="right" height="150" src="https://media1.tenor.com/m/AvHPuvcRU4wAAAAC/cute-penguin.gif"  />
+📍 Manila, Philippines • 🌐 [malabaclado.github.io](https://malabaclado.github.io) • 💼 [LinkedIn](https://www.linkedin.com/in/mark-jayson-labaclado-14603b204/) • ✉️ [malabaclado@gmail.com](mailto:malabaclado@gmail.com)
 
-###
+---
 
-<p align="left">- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/malabaclado](https://www.datascienceportfol.io/malabaclado)<br><br>- 📫 How to reach me **malabaclado@gmail.com**<br><br>- 📄 Know about my experiences [https://www.credly.com/users/mark-jayson-labaclado](https://www.credly.com/users/mark-jayson-labaclado)</p>
+### 🚀 About Me
 
-###
+- 💼 **Lead Specialist @ FactSet** focusing on Digital API endpoints, market data integration, and technical client solutions.
+- 🏆 **2025 & 2026 Star Award Recipient**: Led an enterprise queue automation initiative cutting incident acknowledgment turnaround by **50%**.
+- 🎓 **BS Mathematics from the University of the Philippines - Diliman** (undergraduate thesis using Support Vector Regression to predict Philippine equities).
+- 📜 **Certifications**:
+  - [Snowflake SnowPro Core Certified](https://www.credly.com/badges/2efdae6f-51d6-43ab-b7eb-f1405d19ef1b)
+  - [WorldQuant University Applied Data Science Lab](https://www.credly.com/badges/0e700622-a287-4190-ba0e-d41961d8fdc6)
+  - [Google Advanced Data Analytics](https://www.credly.com/badges/1e2d3169-1977-44dc-b1e0-1d3ef03b88f5)
+- 🔭 **Current Focus**: Quantitative risk modeling (GARCH, VaR), data pipelines in Snowflake, and FastAPI microservices.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-</div>
+---
 
-###
+### 🛠️ Featured Projects & Case Studies
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="malabaclado@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mark-jayson-labaclado-14603b204/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/malabaclado" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+#### 📈 [Predicting Stock Volatility API](https://github.com/malabaclado/predicting-stock-volatility-using-Python)
+> *End-to-end quantitative API microservice forecasting asset volatility using GARCH models.*
+- **Tech Stack:** Python, FastAPI, `arch`, Pandas, SQLite, Pydantic
+- **Highlights:** Built econometric volatility pipelines, time-series forecasting endpoints, and SQLite storage for historic financial data.
+- 📖 [Read the Case Study](https://malabaclado.github.io/posts/volatility-api-python/)
 
-###
+#### 📊 [Automated CMS Dashboard Monitoring Tool](https://malabaclado.github.io/posts/client-dashboard-ingestion-monitoring-tool/)
+> *Operational automation tool replacing manual health-check auditing with automated parsing, filtering, and reporting.*
+- **Tech Stack:** Python, Pandas, Automation, REST Endpoints
+- **Impact:** Slashed daily routine from 30 minutes to 5–10 minutes; adopted across production team operations.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=malabaclado&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+#### ⚖️ [Multi-Asset Value-at-Risk (VaR) Engine](https://malabaclado.github.io)
+> *Risk management suite implementing Parametric, Historical Simulation, and Monte Carlo VaR models for multi-asset portfolios.*
+- **Tech Stack:** Python, NumPy, SciPy, Matplotlib
+- **Highlights:** Implements variance-covariance matrices, historical percentiles, and Monte Carlo paths for portfolio downside risk calculation.
 
-###
+---
+
+### 💻 Core Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, Bash, VBA, Git |
+| **Quant & Data Science** | Pandas, NumPy, SciPy, `arch` (GARCH), Time Series, VaR, Monte Carlo |
+| **Backend & Cloud** | FastAPI, Snowflake (SnowPro Core), REST APIs, SQLite, Pydantic |
+| **Automation & Tools** | Microsoft Power Platform, Linux/Bash, Jekyll (Chirpy) |
+
+---
+
+### ✍️ Recent Articles & Case Studies
+
+- [Automated CMS Dashboard Monitoring Tool](https://malabaclado.github.io/posts/client-dashboard-ingestion-monitoring-tool/)
+- [Generalized ARCH (GARCH) Models for Volatility Clustering](https://malabaclado.github.io/posts/generalized-arch-models/)
+- [Building a Volatility Prediction API in Python](https://malabaclado.github.io/posts/volatility-api-python/)
+
+---
+
+<p align="center">
+  <a href="https://malabaclado.github.io">Personal Website</a> •
+  <a href="https://www.linkedin.com/in/mark-jayson-labaclado-14603b204/">LinkedIn</a> •
+  <a href="mailto:malabaclado@gmail.com">Email Me</a>
+</p>
